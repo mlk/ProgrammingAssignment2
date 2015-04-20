@@ -1,3 +1,5 @@
+## This tests the cachable matrix functionality. It knows nothing about how to solve/inverse matrixes.
+
 test.getReturnsMatrix <- function()
 {
     actual <- matrix(1:4, 2, 2)

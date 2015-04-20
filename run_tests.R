@@ -11,3 +11,4 @@ test.suite <- defineTestSuite("example",
 test.result <- runTestSuite(test.suite)
 
 printTextProtocol(test.result)
+
